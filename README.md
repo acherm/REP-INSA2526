@@ -25,11 +25,21 @@ Reproducibility of experiments (INSA 2526)
 R. Silberzahn et al.
 2018 Advances in Methods and Practices in Psychological Science
 
+  - Do soccer referees issue more red cards to dark-skinned players than to light-skinned players in top European leagues?
+(And secondarily: how much do results vary across independent teams making different analytic choices on the same dataset?)
+  - Reproducibility: reproduce the work/results of (a subset of) 29 teams, using code and explanations in technical reports (hint: considering all teams is certainly impossible; share the workloads)
+  - Replicability: be the 30th, 31th, …, Nth team!
+
+
 * Evaluating superhuman models with consistency checks
 L Fluri, D Paleka, F Tramèr
 2024 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 194-232
 
-
+  - there are three possible topics: LLMs forecasting future events, Chess AI experiments, Legal AI experiments (hint: try to focus hard on one of the third topic)
+  - for the chess part, also related to this study: "Axel Martin, Djamel Eddine Khelladi, Théo Matricon, Mathieu Acher:
+Re-evaluating metamorphic testing of chess engines: A replication study. Inf. Softw. Technol. 181: 107679 (2025)" https://blog.mathieuacher.com/ReproducibilityMetamorphicTestingChess/
+  - does it generatlize to other Leela configuratiions/versions? or other positions?
+  - does it generalize to other LLMs/prompts/configurations?
 
 
 
