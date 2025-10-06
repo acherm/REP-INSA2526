@@ -36,6 +36,7 @@ L Fluri, D Paleka, F Tramèr
 2024 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 194-232
 
   - there are three possible topics: LLMs forecasting future events, Chess AI experiments, Legal AI experiments (hint: try to focus hard on one of the third topic)
+  - https://github.com/ethz-spylab/superhuman-ai-consistency
   - for the chess part, also related to this study: "Axel Martin, Djamel Eddine Khelladi, Théo Matricon, Mathieu Acher:
 Re-evaluating metamorphic testing of chess engines: A replication study. Inf. Softw. Technol. 181: 107679 (2025)" https://blog.mathieuacher.com/ReproducibilityMetamorphicTestingChess/
   - does it generatlize to other Leela configuratiions/versions? or other positions?
