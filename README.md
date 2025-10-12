@@ -18,6 +18,21 @@ Reproducibility of experiments (INSA 2526)
 
 * Lab session #1 [https://docs.google.com/presentation/d/1z2pX_o7cXoPtgdgdDhPsdYRpazkz_YTRJiusBpA-ZII/edit?usp=sharing](https://docs.google.com/presentation/d/1CO0ET1FL0ldZBcQ5UMzn2_gyB5unr_A0_IWs-85sI5c/edit?usp=sharing)
 
+* Reproducibilty foundations (methods, tools, techniques)
+  - slides: https://docs.google.com/presentation/d/1eYXHFeSKa2SA8hQyvBB_Z0OY4ufakst5lVNMZzyuvLI/edit?usp=sharing
+  - Reproducibility mindset
+  - Open source software and tools
+  - Master your computing environment
+  - Explore the variants space
+  - Threats to validity
+  - Automate everything
+  - Test and doubt about the quality of your software
+ 
+
+
+
+* Lab session #2 [https://docs.google.com/document/d/1yhZf-0iTnPSw4Rh6FfIAXO_AtRATVaOppNidoUMsuPY/edit?usp=sharing](https://docs.google.com/document/d/1yhZf-0iTnPSw4Rh6FfIAXO_AtRATVaOppNidoUMsuPY/edit?usp=sharing)  
+
 
 ## Papers to reproduce and replicate (choose 1 out of 2)
 
