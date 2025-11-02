@@ -34,7 +34,10 @@ Reproducibility of experiments (INSA 2526)
 * Lab session #2 aka Reproducibility [https://docs.google.com/document/d/1yhZf-0iTnPSw4Rh6FfIAXO_AtRATVaOppNidoUMsuPY/edit?usp=sharing](https://docs.google.com/document/d/1yhZf-0iTnPSw4Rh6FfIAXO_AtRATVaOppNidoUMsuPY/edit?usp=sharing)
 
 * Lab session #3 aka Replicability, Variability and Consensus
-https://docs.google.com/document/d/1wB7FjJAdTXDGu8Fa-Yt0tuJh9ZnYY7wK1SP10tEhwzg/edit?usp=sharing 
+https://docs.google.com/document/d/1wB7FjJAdTXDGu8Fa-Yt0tuJh9ZnYY7wK1SP10tEhwzg/edit?usp=sharing
+
+* Lab session #4 Towards reproducing and replicating results (of one of the papers below)
+https://docs.google.com/document/d/1gnkR7Us5mGhrtArIkKXLVO057eRS9msx3txhldJ-768/edit?usp=sharing
 
 
 ## Papers to reproduce and replicate (choose 1 out of 2)
@@ -59,7 +62,6 @@ L Fluri, D Paleka, F Tramèr
 Re-evaluating metamorphic testing of chess engines: A replication study. Inf. Softw. Technol. 181: 107679 (2025)" https://blog.mathieuacher.com/ReproducibilityMetamorphicTestingChess/
   - does it generatlize to other Leela configuratiions/versions? or other positions?
   - does it generalize to other LLMs/prompts/configurations?
-
 
 
 ## Resources
