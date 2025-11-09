@@ -39,6 +39,8 @@ https://docs.google.com/document/d/1wB7FjJAdTXDGu8Fa-Yt0tuJh9ZnYY7wK1SP10tEhwzg/
 * Lab session #4 Towards reproducing and replicating results (of one of the papers below)
 https://docs.google.com/document/d/1gnkR7Us5mGhrtArIkKXLVO057eRS9msx3txhldJ-768/edit?usp=sharing
 
+* Lab sessions #5 Instructions to report on reproducing and replicating results https://docs.google.com/document/d/1571PU-Ji55kgjMWFRsSodE40g75JR5aKChnlcKZV-E4/edit?usp=sharing
+
 
 ## Papers to reproduce and replicate (choose 1 out of 2)
 
