@@ -76,3 +76,5 @@ Re-evaluating metamorphic testing of chess engines: A replication study. Inf. So
 By Fraida Fund, Stephanie Lieggi, Kate Keahey, Cormac Flanagan, Marc Richardson,  Haryadi Gunawi and Sarah Cohen Boulakia
   * https://forum.recherche-reproductible.fr/
   * MOOC REPRODUCIBLE RESEARCH II (Arnaud Legrand, Konrad Hinsen, C Pouzat, Matthieu Simonin, etc.)
+  * https://alexnuttinck.dev/posts/1-the-reproducibility-crisis/ The Reproducibility Crisis by Alexandre Nuttinck
+
